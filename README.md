@@ -1,4 +1,3 @@
 # hello-world
 My first repository
-
-Hello, this is my first commit on github.
+This is in the 'main' read-me
